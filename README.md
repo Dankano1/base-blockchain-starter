@@ -1,4 +1,4 @@
-# Base Blockchain Starter
+# Base Blockchain Starter.
 
 A simple starter template for building blockchain-based projects.
 
